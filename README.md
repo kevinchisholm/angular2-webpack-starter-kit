@@ -1,7 +1,4 @@
-
-
-
-[![Angular Logo](https://angular.io/resources/images/logos/angular2/angular.svg)](https://angular.io/)
+<img src="https://angular.io/resources/images/logos/angular2/angular.svg" width="100">
 
 # angular2-webpack-starter-kit
 
