@@ -14,8 +14,8 @@ What you need to run this app:
 
 ### Setup
 
-* Clone this repo
-* Run this command: **npm install**
-* Run this command: **npm start**
+* Clone this repo: `git clone https://github.com/kevinchisholm/angular2-webpack-starter-kit.git`
+* Run this command: `npm install`
+* Run this command: `npm start`
 
 
